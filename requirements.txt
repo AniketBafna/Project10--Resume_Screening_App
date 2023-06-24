@@ -1,3 +1,3 @@
-plotly
-nltk
-sklearn
+﻿streamlit
+nltk == 3.4.5
+scikit-learn == 1.0.2
